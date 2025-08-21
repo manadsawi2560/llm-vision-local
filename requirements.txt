@@ -1,0 +1,9 @@
+transformers==4.43.3
+datasets==2.20.0
+accelerate==0.33.0
+fastapi==0.112.1
+uvicorn[standard]==0.30.5
+python-multipart==0.0.9
+Pillow==10.4.0
+nltk==3.9.1
+tqdm==4.66.4
